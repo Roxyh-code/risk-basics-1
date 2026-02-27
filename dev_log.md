@@ -25,3 +25,6 @@
 
 ## 2026-01-30T14:53:12
 - removed dead code
+
+## 2026-02-26T19:34:03
+- added notes
