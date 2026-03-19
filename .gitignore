@@ -1,0 +1,12 @@
+# Assignment questions (do not distribute)
+*.pdf
+Assignment*Input*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
